@@ -1,7 +1,7 @@
 public class EntryPoint {
 
 	public String callMe() {
-		System.out.println("I can be called from Python!");
-		return "Hello user, I came from java!";
+		System.out.println("Python made me say this.");
+		return "Hello Python, I come from java.";
 	}
 }
